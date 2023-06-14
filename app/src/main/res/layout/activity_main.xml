@@ -77,7 +77,11 @@
         android:layout_centerHorizontal="true"
         android:layout_below="@id/forgotpass"
         android:padding="20dp"/>
-    
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </LinearLayout>
 
 
 
