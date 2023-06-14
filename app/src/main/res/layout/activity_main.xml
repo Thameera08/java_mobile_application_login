@@ -48,5 +48,13 @@
         android:drawablePadding="20dp"
         />
 
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/login_btn"
+        android:text="LOG IN"
+        android:layout_below="@id/password"
+        />
+
 
 </RelativeLayout>
